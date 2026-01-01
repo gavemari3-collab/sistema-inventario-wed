@@ -1,0 +1,15 @@
+sistema-inventario-web/
+│
+├── frontend/
+│   └── README.md
+│
+├── backend/
+│   └── README.md
+│
+├── db/
+│   └── inventario.sql
+│
+├── docs/
+│   └── capturas/
+│
+└── README.md
